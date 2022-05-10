@@ -1,7 +1,7 @@
 # Chat_server
 
 
-About the project
+<h2>About the project</h2>
 
 This is my created php real-time chat,
 I've created iframe wich reloads itself
@@ -13,7 +13,7 @@ just wanted to do something
 fun.
 
 
-How to use
+<h2>How to use</h2>
 
 Ok now how to use it, just download or clone the repository
 after what simply run it on a server, for ex. I runned in ngrok.
