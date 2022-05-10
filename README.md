@@ -1,7 +1,9 @@
 # Chat_server
-<style>
- p {font-size: 19px}
-</style>
+
+
+
+
+
 
 <h2>About the project</h2>
 
@@ -13,6 +15,12 @@ Idk if there are this kind of chats
 but this was my idea and I
 just wanted to do something
 fun.
+
+
+
+
+
+
 
 
 <h2>How to use</h2>
