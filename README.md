@@ -1,10 +1,5 @@
 # Chat_server
-
-
-
-
-
-
+<br><br><br><br>
 <h2>About the project</h2>
 
 This is my created php real-time chat,
@@ -16,13 +11,7 @@ but this was my idea and I
 just wanted to do something
 fun.
 
-
-
-
-
-
-
-
+<br><br><br><br>
 <h2>How to use</h2>
 
 Ok now how to use it, just download or clone the repository
