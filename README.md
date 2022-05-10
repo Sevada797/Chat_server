@@ -1,5 +1,5 @@
 # Chat_server
-<br><br><br>
+<br>
 <h2>About the project</h2>
 
 This is my created php real-time chat,
