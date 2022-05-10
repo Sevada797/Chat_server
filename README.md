@@ -1,5 +1,7 @@
 # Chat_server
-
+<style>
+ p {font-size: 19px}
+</style>
 
 <h2>About the project</h2>
 
