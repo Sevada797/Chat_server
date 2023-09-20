@@ -5,7 +5,7 @@
 This is my created php real-time chat,
 I've created iframe wich reloads itself
 every 1.5 seconds and that's how it's
-real life xD
+real-time xD
 Idk if there are this kind of chats
 but this was my idea and I
 just wanted to do something
